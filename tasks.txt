@@ -1,0 +1,23 @@
+1. install json-server
+   npm i -g json-server
+2. create the db.json file
+  insert the data into the db.json file, in this format:
+   {  
+    "comments": [
+
+    ]
+   }
+   from url: https://jsonplaceholder.typicode.com/comments
+3. json-server --watch db.json
+4. open Postman
+5. perform:
+   GET
+   GET/ID
+   POST
+   PUT/ID
+     1. fill document
+     2. not full
+   PATCH
+     not full
+   DELETE/ID
+   check each time the actual db.json file
