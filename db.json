@@ -234,13 +234,13 @@
   "todos": [
     {
       "id": 1,
-      "title": "delectus aut autem",
-      "completed": false
+      "title": "delectus aut autem!",
+      "completed": "Yes"
     },
     {
-      "id": 2,
-      "title": "quis ut nam facilis et officia qui",
-      "completed": false
+      "title": "et porro tempora",
+      "completed": false,
+      "id": 2
     },
     {
       "id": 3,
@@ -256,16 +256,6 @@
       "title": "run marathon",
       "completed": true,
       "id": 22
-    },
-    {
-      "title": "run marathon 2",
-      "completed": true,
-      "id": 23
-    },
-    {
-      "title": "2",
-      "completed": true,
-      "id": 24
     },
     {
       "title": "learn js",
